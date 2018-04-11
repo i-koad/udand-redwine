@@ -1,0 +1,13 @@
+REFERENCES:
+===========
+https://stackoverflow.com/questions/39709745/decreasing-the-line-thickness-and-corr-font-size-in-ggpairs-plot
+
+http://www.winespectator.com/drvinny/show/id/Difference-Between-Sulfites-Sulfates-Wine-54706
+
+https://discussions.udacity.com/t/ggplot-functions/19294/2
+
+http://r-pkgs.had.co.nz/man.html
+
+https://stackoverflow.com/questions/10628547/use-superscripts-in-r-axis-labels
+
+https://stackoverflow.com/questions/14622421/how-to-change-legend-title-in-ggplot
